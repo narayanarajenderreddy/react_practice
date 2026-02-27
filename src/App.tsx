@@ -1,9 +1,10 @@
-import LiveSearch from "./search_api_debounce";
+import AbortSearch from "./practice_basics/Abort_Controller_task14.tsx"
 function App() {
   return (
     <>
-    <LiveSearch></LiveSearch>
+    <AbortSearch></AbortSearch>
     </>
   )
 }
-export default App
+
+export default App;
