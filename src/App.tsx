@@ -1,8 +1,8 @@
-import AbortSearch from "./practice_basics/Abort_Controller_task14.tsx"
+import LargeListFiltering from "./practice_basics/object_and_reference_trap_task18.tsx"
 function App() {
   return (
     <>
-    <AbortSearch></AbortSearch>
+    <LargeListFiltering></LargeListFiltering>
     </>
   )
 }
