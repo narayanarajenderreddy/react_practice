@@ -1,10 +1,7 @@
-import LargeListFiltering from "./practice_basics/object_and_reference_trap_task18.tsx"
+import SearchPage from "./practice_basics/Routes/Search_Queryparams_task7";
 function App() {
   return (
-    <>
-    <LargeListFiltering></LargeListFiltering>
-    </>
-  )
+    <SearchPage></SearchPage>
+  );
 }
-
 export default App;
